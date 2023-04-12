@@ -1,0 +1,72 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan actualizado",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "nueva nota",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@xn--juanpatiosbtx-pkb.com",
+      "telefono": "138198313",
+      "notas": "necesita",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "nombre": "juan codigo con patiño ",
+      "empresa": "codigo con camilo",
+      "email": "correo@correo.com",
+      "telefono": "3017203991",
+      "notas": "si",
+      "id": 13
+    },
+    {
+      "nombre": "subreptixio",
+      "empresa": "subreptixio core",
+      "email": "correo@correo.com",
+      "telefono": "3017203991",
+      "notas": "indumil",
+      "id": 14
+    },
+    {
+      "nombre": "empanadas",
+      "empresa": "codigo con camilo",
+      "email": "pedronaredos69@hotmail.com",
+      "telefono": "3017203991",
+      "notas": "sisaz oelos",
+      "id": 15
+    }
+  ]
+}
